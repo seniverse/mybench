@@ -1,0 +1,11 @@
+{application, mybench,
+ [
+  {description, "micro-benchmark tool."},
+  {vsn, "git"},
+  {registered, []},
+  {applications, []},
+  {env, []},
+  {licenses, ["Apache"]},
+  {links,[{"GitHub","https://github.com/seniverse/mybench"}]}
+ ]
+}.
